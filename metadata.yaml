@@ -43,6 +43,8 @@ creator:
     gutenberg_agent_id: '151'
     url: http://www.gutenberg.org/2009/agents/151
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13674#Chronicle-and-Romance--13-Froissart-Malory-Holinshed--The-Harvard-Classics-Series-
 gutenberg_bookshelf:
 - Harvard Classics
 - Arthurian Legends
